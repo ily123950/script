@@ -11,7 +11,7 @@ frame.Parent = gui
 
 -- Создаем текстовую надпись
 local textLabel = Instance.new("TextLabel")
-textLabel.Text = "Илюха, привет"
+textLabel.Text = "Илюха, ТЫ ИШАК"
 textLabel.Size = UDim2.new(1, 0, 1, 0)
 textLabel.TextSize = 20
 textLabel.Parent = frame
